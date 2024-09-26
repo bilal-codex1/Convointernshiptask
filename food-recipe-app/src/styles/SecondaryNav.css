@@ -1,0 +1,22 @@
+
+.secondary-nav {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-top: 2px solid #eee;
+    border-bottom: 2px solid #eee;
+}
+
+.secondary-nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #28a745;
+    font-weight: 600;
+}
+
+.secondary-nav a:hover {
+    color: #1e7e34;
+    border-bottom: 2px solid #28a745;
+}
